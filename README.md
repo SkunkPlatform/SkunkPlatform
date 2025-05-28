@@ -9,7 +9,7 @@ I am SkunkPlatform :3
 
 ### Identity's User
 - Real Name: Leonel Joel
-- Age: 14 (Birthday Date: 7, April)
+- Age: 14 (Birthday Date: 7, April) - Maturity: Moderate
 
 ### New Features
 SkunkPlatform added Text Moderation for SkunkOAI!
