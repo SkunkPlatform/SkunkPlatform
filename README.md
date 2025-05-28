@@ -6,7 +6,6 @@ I am SkunkPlatform :3
 - Country: Argentina
 - Province: Chaco
 - City: Resistencia
-(Result: Resistencia, San Fernando, Chaco, Argentina, South America / America Latin, Earth Planet)
 
 ### Identity's User
 - Real Name: Leonel Joel
