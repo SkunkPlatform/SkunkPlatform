@@ -13,5 +13,5 @@ I am SkunkPlatform :3
 ### New Features
 SkunkPlatform added Text Moderation for SkunkOAI!
 
-### My Hardest Maps in Flood Escape 2:
+### My Favorite Hardest Maps in Flood Escape 2:
 Abandoned Facility, Dark Sci-Facility, Satomi Springs and Lost Desert.
