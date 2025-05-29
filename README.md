@@ -9,10 +9,17 @@ I am SkunkPlatform :3
 
 ### Identity's User
 - Real Name: Leonel Joel
+- Gender: Male
 - Age: 14 (Birthday Date: 7, April) - Maturity: Moderate
+- More Information from this [Website](https://skunkplatform.netlify.app/real-name).
 
 ### New Features
 SkunkPlatform added Text Moderation for SkunkOAI!
 
 ### My Favorite Hardest Maps in Flood Escape 2:
 Abandoned Facility, Dark Sci-Facility, Satomi Springs and Lost Desert.
+
+### SkunkPlatform News
+
+#### SkunkPlatform got Voice Chat Access on Roblox
+- Links: [**Roblox Profile**](https://roblox.com/users/5797859201/profile)
