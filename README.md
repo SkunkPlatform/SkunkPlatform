@@ -17,7 +17,7 @@ I am SkunkPlatform :3
 SkunkPlatform added Text Moderation for SkunkOAI!
 
 ### My Favorite Hardest Maps in Flood Escape 2:
-Abandoned Facility, Dark Sci-Facility, Satomi Springs and Lost Desert.
+Abandoned Facility, Dark Sci-Facility, Satomi Springs, Lost Desert and Benath The Ruins.
 
 ### SkunkPlatform News
 
