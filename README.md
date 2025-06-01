@@ -26,4 +26,4 @@ Abandoned Facility, Dark Sci-Facility, Satomi Springs, Lost Desert, Benath The R
 
 #### Emoji Cat Yellow added Death Note Paid on my web
 - Info: The Emoji Cat Yellow includes Red Note (Death Note) Paid for this Download.
-- Links: [GitHub Repository](https://github.com/EmojiCatYellow/Death-Note), [SkunkPlatform Information](https://skunkplatform.netlify.app/fnf/deathnote)
+- Links: [GitHub Repository](https://github.com/EmojiCatYellow/DeathNote-FNF), [SkunkPlatform Information](https://skunkplatform.netlify.app/fnf/deathnote)
