@@ -21,6 +21,9 @@ Abandoned Facility, Dark Sci-Facility, Satomi Springs, Lost Desert, Benath The R
 
 ### SkunkPlatform News
 
+#### SkunkPlatform created a SkunkOAI Moderation in Discord!
+[**Add App**](https://discordapp.com/oauth2/authorize?client_id=1385037104962211851) for Better Moderation
+
 #### SkunkPlatform got Voice Chat Access on Roblox
 - Links: [**Roblox Profile**](https://roblox.com/users/5797859201/profile)
 
