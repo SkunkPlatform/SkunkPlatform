@@ -15,6 +15,7 @@ I am SkunkPlatform :3
 
 ### New Features
 - SkunkPlatform added Text Moderation for SkunkOAI!
+- SkunkPlatform added SkunkOAI Moderation for Discord Bot!
 
 ### My Favorite Insane Maps in Flood Escape 2:
 Abandoned Facility, Dark Sci-Facility, Satomi Springs, Lost Desert, Benath The Ruins and Magmatic Mines.
