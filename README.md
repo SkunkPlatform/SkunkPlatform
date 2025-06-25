@@ -14,6 +14,7 @@ I am SkunkPlatform :3
 - More Information from this [Website](https://skunkplatform.netlify.app/real-name).
 
 ### New Features
+- SkunkPlatform knew a Yellow Skunk in Roblox! Here is the Roblox Profile: [roblox.com/users/.../profile](https://www.roblox.com/es/communities/35980296/SkunkPlatform-Games#!/about)
 - SkunkPlatform added Text Moderation for SkunkOAI!
 - SkunkPlatform added SkunkOAI Moderation for Discord Bot!
 
@@ -21,6 +22,9 @@ I am SkunkPlatform :3
 Abandoned Facility, Dark Sci-Facility, Satomi Springs, Lost Desert, Benath The Ruins and Magmatic Mines.
 
 ### SkunkPlatform News
+
+#### SkunkPlatform Color Favorite:
+- SkunkPlatform Color uses Light Aqua or Light Blue.
 
 #### SkunkPlatform created a SkunkOAI Moderation in Discord!
 [**Add App**](https://discordapp.com/oauth2/authorize?client_id=1385037104962211851) for Better Moderation
