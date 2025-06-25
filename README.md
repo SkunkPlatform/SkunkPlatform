@@ -30,7 +30,7 @@ Abandoned Facility, Dark Sci-Facility, Satomi Springs, Lost Desert, Benath The R
 [**Add App**](https://discordapp.com/oauth2/authorize?client_id=1385037104962211851) for Better Moderation
 
 #### SkunkPlatform got Voice Chat Access on Roblox
-- Links: [**Roblox Profile**](https://roblox.com/users/5797859201/profile)
+- Links: [**Roblox Profile**](https://roblox.com/users/5797859201/profile) or Roblox Profile Username: SkunkPlatform1
 
 #### Emoji Cat Yellow added Death Note Paid on my web
 - Info: The Emoji Cat Yellow includes Red Note (Death Note) Paid for this Download.
