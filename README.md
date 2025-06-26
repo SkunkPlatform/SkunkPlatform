@@ -14,6 +14,7 @@ I am SkunkPlatform :3
 - More Information from this [Website](https://skunkplatform.netlify.app/real-name).
 
 ### New Features
+- SkunkPlatform has named SkunkOAI with full word of OAI: SkunkPlatform Ore Artificial Intelligence
 - SkunkPlatform knew a Yellow Skunk in Roblox! Here is the Roblox Profile: [roblox.com/users/.../profile](https://www.roblox.com/es/communities/35980296/SkunkPlatform-Games#!/about)
 - SkunkPlatform added Text Moderation for SkunkOAI!
 - SkunkPlatform added SkunkOAI Moderation for Discord Bot!
