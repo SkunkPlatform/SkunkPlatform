@@ -14,6 +14,7 @@ I am SkunkPlatform :3
 - More Information from this [Website](https://skunkplatform.netlify.app/real-name).
 
 ### New Features
+- SkunkPlatform created MalBlox for About the Malicious Roblox Scripts. The MalBlox may possible contain `loadstring` and Malicious Code because Hyperion may possible mark as ExploitDetected. Read in the SkunkPlatform's Repository - [RobloxWarning/MalBlox.md](/SkunkPlatform/blob/main/RobloxWarning/MalBlox.md)
 - SkunkPlatform created a Yellow Skunk Account on Yellow Skunk Website, Link: [yellowskunk.netlify.app](https://yellowskunk.netlify.app)
 - SkunkPlatform has named SkunkOAI with full word of OAI: SkunkPlatform Ore Artificial Intelligence
 - SkunkPlatform knew a Yellow Skunk in Roblox! Here is the Roblox Profile: [roblox.com/users/.../profile](https://www.roblox.com/es/communities/35980296/SkunkPlatform-Games#!/about)
