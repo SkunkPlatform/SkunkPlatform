@@ -11,6 +11,7 @@ I am SkunkPlatform :3
 - Real Name: Leonel Joel
 - Gender: Male
 - Age: 14 (Birthday Date: 7, April) - Maturity: Moderate
+- Year of Birth: 2011
 - More Information from this [Website](https://skunkplatform.netlify.app/real-name).
 
 ### New Features
