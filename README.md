@@ -6,6 +6,9 @@ I am SkunkPlatform :3
 - SkunkPlatform G-01: First Version launched at 04:08 | 08/07/2025 (on Argentina Date)
 - SkunkPlatform G-02: Launchs at September 2025.
 
+### TikTok Videos
+- SkunkPlatform Shared more than +35 PEOPLES on TikTok and is for unlimited count friends now. ([New Video Available](https://www.tiktok.com/@skunkplatformer/video/7524621641486306616))
+
 ### Living in
 - Country: Argentina
 - Province: Chaco
