@@ -3,8 +3,8 @@
 I am SkunkPlatform :3
 
 ### SPVersions
-SkunkPlatform G-01: First Version launched at 04:08 | 08/07/2025 (on Argentina Date)
-SkunkPlatform G-02: Launchs at September 2025.
+- SkunkPlatform G-01: First Version launched at 04:08 | 08/07/2025 (on Argentina Date)
+- SkunkPlatform G-02: Launchs at September 2025.
 
 ### Living in
 - Country: Argentina
