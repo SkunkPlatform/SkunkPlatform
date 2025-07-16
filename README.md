@@ -6,6 +6,17 @@ I am SkunkPlatform :3
 - SkunkPlatform G-01: First Version launched at 04:08 | 08/07/2025 (on Argentina Date)
 - SkunkPlatform G-02: Launchs at September 2025.
 
+### SPVersion Features
+SkunkPlatform Version Features will show here.
+#### SkunkPlatform G-02
+- AI-Moderation for Image Reviewer API (SPIME - SkunkPlatform Image Moderation Elastic)
+- Analytics Embed for SkunkPlatform Embed System (SPES) - This will contain canvas and it will use the SPAnalytic API for all.
+- SkunkOAI protects Yellow Skunk Website for Chat System, Audience Rating will use 16 for Strong Language without getting detected by SkunkOAI-CM.
+
+#### SkunkPlastform G-01
+- AI-Moderation for Discord
+- Yellow Skunk Website has been hosted
+
 ### TikTok Videos
 - SkunkPlatform Shared more than +35 PEOPLES on TikTok and is for unlimited count friends now. ([New Video Available](https://www.tiktok.com/@skunkplatformer/video/7524621641486306616))
 
