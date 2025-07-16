@@ -11,6 +11,7 @@ I am SkunkPlatform :3
 SkunkPlatform Version Features will show here.
 #### SkunkPlatform G-03
 - SkunkPlatform API Billing with Stripe, Yellow Skunk Security and Yellow Skunk Free/Paid for Roblox from Chrome Extension.
+- PurBlox and PurBlox Plus will use the Cool Roblox with Background Animator Canvas
 #### SkunkPlatform G-02
 - AI-Moderation for Image Reviewer API (SPIME - SkunkPlatform Image Moderation Elastic)
 - Analytics Embed for SkunkPlatform Embed System (SPES) - This will contain canvas and it will use the SPAnalytic API for all.
