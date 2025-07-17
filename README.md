@@ -3,6 +3,7 @@
 I am SkunkPlatform :3
 
 ### SPVersions
+- SkunkPlatform G-O: Created at February to April 2024.
 - SkunkPlatform G-01: First Version launched at 04:08 | 08/07/2025 (on Argentina Date)
 - SkunkPlatform G-02: Launchs at September 2025.
 - SkunkPlatform G-03: Launchs at December 2025.
