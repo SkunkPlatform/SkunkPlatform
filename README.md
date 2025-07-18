@@ -2,6 +2,11 @@
 
 I am SkunkPlatform :3
 
+We have a new Icon!
+New SkunkPlatform Label and Icon is here: ![](https://raw.githubusercontent.com/SkunkPlatform/SkunkPlatform/refs/heads/main/images/NewSPLabel.png)
+
+A SkunkPlatform Label, Tail and a Light Aqua Skunk Icon.
+
 ### SPVersions
 - SkunkPlatform G-O: Created at February to April 2024.
 - SkunkPlatform G-01: First Version launched at 04:08 | 08/07/2025 (on Argentina Date)
