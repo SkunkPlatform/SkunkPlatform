@@ -5,6 +5,8 @@ I am SkunkPlatform :3
 We have a new Icon!
 New SkunkPlatform Label and Icon is here: ![](https://raw.githubusercontent.com/SkunkPlatform/SkunkPlatform/refs/heads/main/images/NewSPLabel.png)
 
+Account Age: one year old. The Challenge for 5 Years old = 2028 will be birthday for the year.
+
 A SkunkPlatform Label, Tail and a Light Aqua Skunk Icon.
 
 ### SPVersions
