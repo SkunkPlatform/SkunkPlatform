@@ -8,13 +8,16 @@ New SkunkPlatform Label and Icon is here: ![](https://raw.githubusercontent.com/
 A SkunkPlatform Label, Tail and a Light Aqua Skunk Icon.
 
 ### SPVersions
-- SkunkPlatform G-O: Created at February to April 2024.
-- SkunkPlatform G-01: First Version launched at 04:08 | 08/07/2025 (on Argentina Date)
-- SkunkPlatform G-02: Launchs at September 2025.
-- SkunkPlatform G-03: Launchs at December 2025.
+- SkunkPlatform 2024: Created at February to April 2024.
+- SkunkPlatform G-01: First Version launched at 04:08 | 08/07/2025 (on Argentina Date). Ends in January 2027.
+- SkunkPlatform G-02: Launchs at September 2025. Ends in January 2028.
+- SkunkPlatform G-03: Launchs at December 2025. Ends in January 2029.
+- SkunkPlatform G-04: Launchs at January 2026. Ends in December 2029.
 
 ### SPVersion Features
 SkunkPlatform Version Features will show here.
+#### SkunkPlastform G-04
+- Comes back in 2026.
 #### SkunkPlatform G-03
 - SkunkPlatform API Billing with Stripe, Yellow Skunk Security and Yellow Skunk Free/Paid for Roblox from Chrome Extension.
 - PurBlox and PurBlox Plus will use the Cool Roblox with Background Animator Canvas
