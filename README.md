@@ -9,13 +9,19 @@ Account Age: one year old. The Challenge for 5 Years old = 2028 will be birthday
 
 A SkunkPlatform Label, Tail and a Light Aqua Skunk Icon.
 
+My New SkunkPlatform Icon:
+![](https://cdn.discordapp.com/avatars/1208633283907158030/3dc0ec54c082c1ae5a9ae3a67b66854c.png)
+
+This Icon shows: A Chibi Light Blue Skunk icon, Sparkles, Chibi Light Blue Skunk with Tail and a Skunk Ear.
+
 ### SPVersions
 - SkunkPlatform 2024: Created at February to April 2024.
 - SkunkPlatform G-01: First Version launched at 04:08 | July 8th, 2025 (on Argentina Date). Ends in January 2027.
 - SkunkPlatform G-02: Launchs at September 2025. Ends in January 2028.
 - SkunkPlatform G-03: Launchs at December, 2025. Ends in January 2029.
 - SkunkPlatform G-04: Launchs at December 24th, 2025. Ends in December 2029.
-- SkunkPlatform G-04.1: Launchs at January, 2026.
+- SkunkPlatform G-04.1: Launchs at January, 2026. Ends in January 2030.
+- SkunkPlatform G-05: Launchs at January, 2027. Ends in January 2032.
 
 ### SPVersion Features
 SkunkPlatform Version Features will show here.
