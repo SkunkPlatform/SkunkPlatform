@@ -14,7 +14,7 @@ A SkunkPlatform Label, Tail and a Light Aqua Skunk Icon.
 - SkunkPlatform G-01: First Version launched at 04:08 | July 8th, 2025 (on Argentina Date). Ends in January 2027.
 - SkunkPlatform G-02: Launchs at September 2025. Ends in January 2028.
 - SkunkPlatform G-03: Launchs at December, 2025. Ends in January 2029.
-- SkunkPlatform G-04: Launchs at December 24th, 2026. Ends in December 2029.
+- SkunkPlatform G-04: Launchs at December 24th, 2025. Ends in December 2029.
 - SkunkPlatform G-04.1: Launchs at January, 2026.
 
 ### SPVersion Features
