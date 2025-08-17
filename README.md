@@ -34,7 +34,7 @@ SkunkPlatform Version Features will show here.
 - SkunkPlatform API Billing with Stripe, Yellow Skunk Security and Yellow Skunk Free/Paid for Roblox from Chrome Extension.
 - PurBlox and PurBlox Plus will use the Cool Roblox with Background Animator Canvas
 #### SkunkPlatform G-02
-- SkunkSprayPlatform is available for Yellow Skunk Website & SkunkPlatform Website.
+- SkunkSprayPlatform is available for Yellow Skunk Website & SkunkPlatform Website. The SSP is a part of Economy like Coins, Levels, Experience and more like leaderstats.
 - AI-Moderation for Image Reviewer API (SPIME - SkunkPlatform Image Moderation Elastic)
 - Analytics Embed for SkunkPlatform Embed System (SPES) - This will contain canvas and it will use the SPAnalytic API for all.
 - SkunkOAI protects Yellow Skunk Website for Chat System, Audience Rating will use 16 for Strong Language without getting detected by SkunkOAI-CM.
