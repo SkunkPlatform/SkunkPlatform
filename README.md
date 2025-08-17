@@ -22,7 +22,7 @@ This Icon shows: A Chibi Light Blue Skunk icon, Sparkles, Chibi Light Blue Skunk
 - SkunkPlatform G-04: Launchs at December 24th, 2025. Ends in December 2029.
 - SkunkPlatform G-04.1: Launchs at January, 2026. Ends in January 2030.
 - SkunkPlatform G-05: Launchs at January, 2027. Ends in January 2032.
-- SkunkPlatform V-Sprayous (Versionificator, V-Sprayous): Launchs at January, 2028. Ends in December 2032.
+- SkunkPlatform V-Sprayous (Versionified, V-Sprayous): Launchs at January, 2028. Ends in December 2032.
 
 ### SPVersion Features
 SkunkPlatform Version Features will show here.
