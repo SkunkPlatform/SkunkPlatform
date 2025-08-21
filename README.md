@@ -60,6 +60,7 @@ SkunkPlatform Version Features will show here.
 - More Information from this [Website](https://skunkplatform.netlify.app/real-name).
 
 ### New Features
+- Yellow Skunk will update a Great Design for the Yellow Skunk Website.
 - We named the SPVersions: G = GoeVer. GoeVer is an official version from SkunkPlatform Versions.
 - SkunkPlatform created MalBlox for About the Malicious Roblox Scripts. The MalBlox may possible contain `loadstring` and Malicious Code because Hyperion may possible mark as ExploitDetected. Read in the SkunkPlatform's Repository - [RobloxWarning/MalBlox.md](/SkunkPlatform/blob/main/RobloxWarning/MalBlox.md)
 - SkunkPlatform created a Yellow Skunk Account on Yellow Skunk Website, Link: [yellowskunk.netlify.app](https://yellowskunk.netlify.app)
