@@ -26,6 +26,8 @@ This Icon shows: A Chibi Light Blue Skunk icon, Sparkles, Chibi Light Blue Skunk
 
 ### SPVersion Features
 SkunkPlatform Version Features will show here.
+#### SkunkPlatform G-05:
+- Identifier will reach 16 years old.
 #### SkunkPlatform G-04.1:
 - Master SkunkPlatform API.
 #### SkunkPlastform G-04
