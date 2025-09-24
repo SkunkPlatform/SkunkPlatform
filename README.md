@@ -10,7 +10,7 @@ Account Age: one year old. The Challenge for 5 Years old = 2028 will be birthday
 A SkunkPlatform Label, Tail and a Light Aqua Skunk Icon.
 
 My New SkunkPlatform Icon:
-![]([https://cdn.discordapp.com/avatars/1208633283907158030/3dc0ec54c082c1ae5a9ae3a67b66854c.png](https://avatars.githubusercontent.com/u/167719548?v=4&size=200))
+![](https://avatars.githubusercontent.com/u/167719548?v=4&size=200)
 
 This Icon shows: A Chibi Light Blue Skunk icon, Sparkles, Chibi Light Blue Skunk with Tail and a Skunk Ear.
 
