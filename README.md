@@ -1,16 +1,12 @@
 ## Hello!
 
-I am SkunkPlatform :3
-
-We have a new Icon!
-New SkunkPlatform Label and Icon is here: ![](https://raw.githubusercontent.com/SkunkPlatform/SkunkPlatform/refs/heads/main/images/NewSPLabel.png)
+I am ![](https://avatars.githubusercontent.com/u/167719548?v=4&size=16) SkunkPlatform :3
 
 Account Age: one year old. The Challenge for 5 Years old = 2028 will be birthday for the year.
 
 A SkunkPlatform Label, Tail and a Light Aqua Skunk Icon.
 
-My New SkunkPlatform Icon:
-![](https://avatars.githubusercontent.com/u/167719548?v=4&size=200)
+My New SkunkPlatform Icon: ![](https://avatars.githubusercontent.com/u/167719548?v=4&size=100)
 
 This Icon shows: A Chibi Light Blue Skunk icon, Sparkles, Chibi Light Blue Skunk with Tail and a Skunk Ear.
 
