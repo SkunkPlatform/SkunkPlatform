@@ -29,11 +29,10 @@ SkunkPlatform Version Features will show here.
 #### SkunkPlastform G-04
 - Comes back in 2026.
 #### SkunkPlatform G-03
-- SkunkPlatform API Billing with Stripe, Yellow Skunk Security and Yellow Skunk Free/Paid for Roblox from Chrome Extension.
 - PurBlox and PurBlox Plus will use the Cool Roblox with Background Animator Canvas
 #### SkunkPlatform G-02
 - SkunkPlatform will forbid Crude Humor that who includes on Roblox Game Experience. SkunkPlatform won't renew to the Yellow Skunk from this Community Ally but the other user's group/community will be renewed from Community Ally due to Crude Humor (Possibly contains Fart, Pee or Poop. Will result in an Ally Renew) or Violating Roblox's Terms of Service.
-- SkunkSprayPlatform is available for Yellow Skunk Website & SkunkPlatform Website. The SSP is a part of Economy like Coins, Levels, Experience and more like leaderstats.
+- SkunkSprayPlatform is available for SkunkPlatform Website. The SSP is a part of Economy like Coins, Levels, Experience and more like leaderstats.
 - AI-Moderation for Image Reviewer API (SPIME - SkunkPlatform Image Moderation Elastic)
 - Analytics Embed for SkunkPlatform Embed System (SPES) - This will contain canvas and it will use the SPAnalytic API for all.
 - SkunkOAI protects Yellow Skunk Website for Chat System, Audience Rating will use 16 for Strong Language without getting detected by SkunkOAI-CM.
@@ -58,13 +57,12 @@ SkunkPlatform Version Features will show here.
 - More Information from this [Website](https://skunkplatform.netlify.app/real-name).
 
 ### New Features
-- The Clip :skull: [TikTok Video is here for Result](https://www.tiktok.com/@skunkplatformer/video/7541939773645081862)
+- The Clip :skull: [TikTok Video is here for Result](https://www.tiktok.com/@skunkplatform/video/7541939773645081862)
 - Yellow Skunk will update a Great Design for the Yellow Skunk Website.
 - We named the SPVersions: G = GoeVer. GoeVer is an official version from SkunkPlatform Versions.
 - SkunkPlatform created MalBlox for About the Malicious Roblox Scripts. The MalBlox may possible contain `loadstring` and Malicious Code because Hyperion may possible mark as ExploitDetected. Read in the SkunkPlatform's Repository - [RobloxWarning/MalBlox.md](/SkunkPlatform/blob/main/RobloxWarning/MalBlox.md)
 - SkunkPlatform created a Yellow Skunk Account on Yellow Skunk Website, Link: [yellowskunk.netlify.app](https://yellowskunk.netlify.app)
 - SkunkPlatform has named SkunkOAI with full word of OAI: SkunkPlatform Ore Artificial Intelligence
-- SkunkPlatform knew a Yellow Skunk in Roblox! Here is the Roblox Profile: [roblox.com/users/.../profile](https://www.roblox.com/es/communities/35980296/SkunkPlatform-Games#!/about)
 - SkunkPlatform added Text Moderation for SkunkOAI!
 - SkunkPlatform added SkunkOAI Moderation for Discord Bot!
 
@@ -75,9 +73,6 @@ Abandoned Facility, Dark Sci-Facility, Satomi Springs, Lost Desert, Benath The R
 
 #### SkunkPlatform Color Favorite:
 - SkunkPlatform Color uses Light Aqua or Light Blue.
-
-#### SkunkPlatform created a SkunkOAI Moderation in Discord!
-[**Add App**](https://discordapp.com/oauth2/authorize?client_id=1385037104962211851) for Better Moderation
 
 #### SkunkPlatform got Voice Chat Access on Roblox
 - Links: [**Roblox Profile**](https://roblox.com/users/5797859201/profile) or Roblox Profile Username: SkunkPlatform1
