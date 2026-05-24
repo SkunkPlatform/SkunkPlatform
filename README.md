@@ -1,12 +1,10 @@
 ## Hello!
 
-I am ![](https://avatars.githubusercontent.com/u/167719548?v=4&size=16) SkunkPlatform :3
+I am ![](https://avatars.githubusercontent.com/u/167719548?v=4&size=16) LJ!
 
-Account Age: one year old. The Challenge for 5 Years old = 2028 will be birthday for the year.
+Account Age: two years old. The Challenge for 5 Years old = 2028 will be birthday for the year.
 
 A SkunkPlatform Label, Tail and a Light Aqua Skunk Icon.
-
-My New SkunkPlatform Icon: ![](https://avatars.githubusercontent.com/u/167719548?v=4&size=100)
 
 This Icon shows: A Chibi Light Blue Skunk icon, Sparkles, Chibi Light Blue Skunk with Tail and a Skunk Ear.
 
@@ -18,7 +16,7 @@ This Icon shows: A Chibi Light Blue Skunk icon, Sparkles, Chibi Light Blue Skunk
 - SkunkPlatform G-04: Launchs at December 24th, 2025. Ends in December 2029.
 - SkunkPlatform G-04.1: Launchs at January, 2026. Ends in January 2030.
 - SkunkPlatform G-05: Launchs at January, 2027. Ends in January 2032.
-- SkunkPlatform V-Sprayous (Versionified, V-Sprayous): Launchs at January, 2028. Ends in December 2032.
+- SkunkPlatform V-OP (OverPoint Version): Launchs at January, 2028. Ends in January 2034.
 
 ### SPVersion Features
 SkunkPlatform Version Features will show here.
@@ -50,9 +48,9 @@ SkunkPlatform Version Features will show here.
 - City: Resistencia
 
 ### Identity's User
-- Real Name: Leonel Joel
+- First Name: Leonel Joel
 - Gender: Male
-- Age: 14 (Birthday Date: 7, April) - Maturity: Moderate
+- Age: 15 (Birthday Date: 7, April) - Maturity: Moderate
 - Year of Birth: 2011
 - More Information from this [Website](https://skunkplatform.netlify.app/real-name).
 
