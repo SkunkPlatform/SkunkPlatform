@@ -2,11 +2,11 @@
 
 ### Info
 
-**Creation Date** 02-18-2024
-**Private Date** ??-??-2023
-**DiamondPlatform** 01-30-2026
-**KitPlatform** 02-18-2027
-**MoonPlatform** 02-18-2028
+- **Creation Date** 02-18-2024
+- **Private Date** ??-??-2023
+- **DiamondPlatform** 01-30-2026
+- **KitPlatform** 02-18-2027
+- **MoonPlatform** 02-18-2028
 
 ---
 
