@@ -1,8 +1,18 @@
 ## Hello!
 
+### Info
+
+**Creation Date** 02-18-2024
+**Private Date** ??-??-2023
+**DiamondPlatform** 01-30-2026
+**KitPlatform** 02-18-2027
+**MoonPlatform** 02-18-2028
+
+---
+
 I am ![](https://avatars.githubusercontent.com/u/167719548?v=4&size=16) LJ!
 
-Account Age: two years old. The Challenge for 5 Years old = 2028 will be birthday for the year.
+Account Age: three years old. The Challenge for 5 Years old = 2028 will be birthday for the year.
 
 A SkunkPlatform Label, Tail and a Light Aqua Skunk Icon.
 
