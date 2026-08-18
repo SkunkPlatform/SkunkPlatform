@@ -67,7 +67,7 @@ SkunkPlatform Version Features will show here.
 - The Clip :skull: [TikTok Video is here for Result](https://www.tiktok.com/@skunkplatform/video/7541939773645081862)
 - Yellow Skunk will update a Great Design for the Yellow Skunk Website.
 - We named the SPVersions: G = GoeVer. GoeVer is an official version from SkunkPlatform Versions.
-- SkunkPlatform created MalBlox for About the Malicious Roblox Scripts. The MalBlox may possible contain `loadstring` and Malicious Code because Hyperion may possible mark as ExploitDetected. Read in the SkunkPlatform's Repository - [RobloxWarning/MalBlox.md](/SkunkPlatform/blob/main/RobloxWarning/MalBlox.md)
+- SkunkPlatform created MalBlox for About the Malicious Roblox Scripts. The MalBlox may possible contain `loadstring` and Malicious Code because Hyperion may possible mark as ExploitDetected. Read in the SkunkPlatform's Repository - [RobloxWarning/MalBlox.md](/RobloxWarning/MalBlox.md) - Check how the anticheat work.
 - SkunkPlatform has named SkunkOAI with full word of OAI: SkunkPlatform Ore Artificial Intelligence
 - SkunkPlatform added Text Moderation for SkunkOAI!
 - SkunkPlatform added SkunkOAI Moderation for Discord Bot!
