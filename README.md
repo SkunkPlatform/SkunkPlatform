@@ -43,7 +43,6 @@ SkunkPlatform Version Features will show here.
 - SkunkSprayPlatform is available for SkunkPlatform Website. The SSP is a part of Economy like Coins, Levels, Experience and more like leaderstats.
 - AI-Moderation for Image Reviewer API (SPIME - SkunkPlatform Image Moderation Elastic)
 - Analytics Embed for SkunkPlatform Embed System (SPES) - This will contain canvas and it will use the SPAnalytic API for all.
-- SkunkOAI protects Yellow Skunk Website for Chat System, Audience Rating will use 16 for Strong Language without getting detected by SkunkOAI-CM.
 
 #### SkunkPlastform G-01
 - AI-Moderation for Discord
@@ -69,7 +68,6 @@ SkunkPlatform Version Features will show here.
 - Yellow Skunk will update a Great Design for the Yellow Skunk Website.
 - We named the SPVersions: G = GoeVer. GoeVer is an official version from SkunkPlatform Versions.
 - SkunkPlatform created MalBlox for About the Malicious Roblox Scripts. The MalBlox may possible contain `loadstring` and Malicious Code because Hyperion may possible mark as ExploitDetected. Read in the SkunkPlatform's Repository - [RobloxWarning/MalBlox.md](/SkunkPlatform/blob/main/RobloxWarning/MalBlox.md)
-- SkunkPlatform created a Yellow Skunk Account on Yellow Skunk Website, Link: [yellowskunk.netlify.app](https://yellowskunk.netlify.app)
 - SkunkPlatform has named SkunkOAI with full word of OAI: SkunkPlatform Ore Artificial Intelligence
 - SkunkPlatform added Text Moderation for SkunkOAI!
 - SkunkPlatform added SkunkOAI Moderation for Discord Bot!
