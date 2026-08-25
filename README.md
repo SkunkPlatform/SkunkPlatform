@@ -1,88 +1,9 @@
-## Hello!
+## LJ
 
-### Info
+LJ is a SkunkPlatform Founder made for a project.
 
-- **Creation Date** 02-18-2024
-- **Private Date** ??-??-2023
-- **DiamondPlatform** 01-30-2026
-- **KitPlatform** 02-18-2027
-- **MoonPlatform** 02-18-2028
-
----
-
-I am ![](https://avatars.githubusercontent.com/u/167719548?v=4&size=16) LJ!
-
-Account Age: three years old. The Challenge for 5 Years old = 2028 will be birthday for the year.
-
-A SkunkPlatform Label, Tail and a Light Aqua Skunk Icon.
-
-This Icon shows: A Chibi Light Blue Skunk icon, Sparkles, Chibi Light Blue Skunk with Tail and a Skunk Ear.
-
-### SPVersions
-- SkunkPlatform 2024: Created at February to April 2024.
-- SkunkPlatform G-01: First Version launched at 04:08 | July 8th, 2025 (on Argentina Date). Ends in January 2027.
-- SkunkPlatform G-02: Launchs at September 2025. Ends in January 2028.
-- SkunkPlatform G-03: Launchs at December, 2025. Ends in January 2029.
-- SkunkPlatform G-04: Launchs at December 24th, 2025. Ends in December 2029.
-- SkunkPlatform G-04.1: Launchs at January, 2026. Ends in January 2030.
-- SkunkPlatform G-05: Launchs at January, 2027. Ends in January 2032.
-- SkunkPlatform V-OP (OverPoint Version): Launchs at January, 2028. Ends in January 2034.
-
-### SPVersion Features
-SkunkPlatform Version Features will show here.
-#### SkunkPlatform G-05:
-- Identifier will reach 16 years old.
-#### SkunkPlatform G-04.1:
-- Master SkunkPlatform API.
-#### SkunkPlastform G-04
-- Comes back in 2026.
-#### SkunkPlatform G-03
-- PurBlox and PurBlox Plus will use the Cool Roblox with Background Animator Canvas
-#### SkunkPlatform G-02
-- SkunkPlatform will forbid Crude Humor that who includes on Roblox Game Experience. SkunkPlatform won't renew to the Yellow Skunk from this Community Ally but the other user's group/community will be renewed from Community Ally due to Crude Humor (Possibly contains Fart, Pee or Poop. Will result in an Ally Renew) or Violating Roblox's Terms of Service.
-- SkunkSprayPlatform is available for SkunkPlatform Website. The SSP is a part of Economy like Coins, Levels, Experience and more like leaderstats.
-- AI-Moderation for Image Reviewer API (SPIME - SkunkPlatform Image Moderation Elastic)
-- Analytics Embed for SkunkPlatform Embed System (SPES) - This will contain canvas and it will use the SPAnalytic API for all.
-
-#### SkunkPlastform G-01
-- AI-Moderation for Discord
-- Yellow Skunk Website has been hosted
-
-### TikTok Videos
-- SkunkPlatform Shared more than +35 PEOPLES on TikTok and is for unlimited count friends now. ([New Video Available](https://www.tiktok.com/@skunkplatformer/video/7524621641486306616))
-
-### Living in
-- Country: Argentina
-- Province: Chaco
-- City: Resistencia
-
-### Identity's User
-- First Name: Leonel Joel
-- Gender: Male
-- Age: 15 (Birthday Date: 7, April) - Maturity: Moderate
-- Year of Birth: 2011
-- More Information from this [Website](https://skunkplatform.netlify.app/real-name).
-
-### New Features
-- The Clip :skull: [TikTok Video is here for Result](https://www.tiktok.com/@skunkplatform/video/7541939773645081862)
-- Yellow Skunk will update a Great Design for the Yellow Skunk Website.
-- We named the SPVersions: G = GoeVer. GoeVer is an official version from SkunkPlatform Versions.
-- SkunkPlatform created MalBlox for About the Malicious Roblox Scripts. The MalBlox may possible contain `loadstring` and Malicious Code because Hyperion may possible mark as ExploitDetected. Read in the SkunkPlatform's Repository - [RobloxWarning/MalBlox.md](/RobloxWarning/MalBlox.md) - Check how the anticheat work.
-- SkunkPlatform has named SkunkOAI with full word of OAI: SkunkPlatform Ore Artificial Intelligence
-- SkunkPlatform added Text Moderation for SkunkOAI!
-- SkunkPlatform added SkunkOAI Moderation for Discord Bot!
-
-### My Favorite Insane Maps in Flood Escape 2:
-Abandoned Facility, Dark Sci-Facility, Satomi Springs, Lost Desert, Benath The Ruins and Magmatic Mines.
-
-### SkunkPlatform News
-
-#### SkunkPlatform Color Favorite:
-- SkunkPlatform Color uses Light Aqua or Light Blue.
-
-#### SkunkPlatform got Voice Chat Access on Roblox
-- Links: [**Roblox Profile**](https://roblox.com/users/5797859201/profile) or Roblox Profile Username: SkunkPlatform1
-
-#### Emoji Cat Yellow added Death Note Paid on my web
-- Info: The Emoji Cat Yellow includes Red Note (Death Note) Paid for this Download.
-- Links: [GitHub Repository](https://github.com/EmojiCatYellow/DeathNote-FNF), [SkunkPlatform Information](https://skunkplatform.netlify.app/fnf/deathnote)
+### SP Versions
+- SkunkPlatform | 2024-02-18 | 2034-02-18
+- DiamondPlatform | 2026-01-30 | 2036-01-30
+- KitPlatform | 2027-02-18 | 2037-02-18
+- MoonPlatform | 2030-02-18 | 2040-02-18
